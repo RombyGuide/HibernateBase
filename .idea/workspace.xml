@@ -2,6 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d67d41d4-32af-4ee2-b01b-497d10d3055a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/be8bd76a-7739-4203-a638-5ba597e13c21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/be8bd76a-7739-4203-a638-5ba597e13c21/storage_v2/_src_/database/postgres.edMnLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/be8bd76a-7739-4203-a638-5ba597e13c21/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/be8bd76a-7739-4203-a638-5ba597e13c21/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/be8bd76a-7739-4203-a638-5ba597e13c21/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blino/models/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blino/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/User.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/User.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/blino/app/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/blino/models/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/blino/models/User.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../5. DB Example/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../5. DB Example/src/main/resources/db.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +91,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -92,11 +112,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.blino.app.Application" />
-      <module name="HibernateExample" />
+      <module name="Hiber" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.blino.app.*" />
@@ -118,12 +139,7 @@
       <list>
         <serviceView>
           <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:postgres@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </treeState>
         </serviceView>
@@ -141,6 +157,8 @@
       <option name="presentableId" value="Default" />
       <updated>1580753100434</updated>
       <workItem from="1580753101890" duration="6436000" />
+      <workItem from="1580761293728" duration="924000" />
+      <workItem from="1580762429612" duration="38000" />
     </task>
     <servers />
   </component>
@@ -148,6 +166,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="256" y="6" key="#Application" timestamp="1580762466216">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="256" y="6" key="#Application/0.0.1280.689@0.0.1280.689" timestamp="1580762466216" />
     <state x="0" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580757228968">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
@@ -156,6 +178,10 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="344" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1580758195293" />
+    <state x="317" y="103" key="FileChooserDialogImpl" timestamp="1580762232823">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="317" y="103" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1580762232823" />
     <state width="1018" height="163" key="GridCell.Tab.0.bottom" timestamp="1580760989053">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
@@ -176,9 +202,9 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="438" y="258" width="322" height="232" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1280.689@0.0.1280.689" timestamp="1580757308026" />
-    <state x="230" y="85" width="742" height="596" key="find.popup" timestamp="1580761339694">
+    <state x="229" y="90" width="742" height="596" key="find.popup" timestamp="1580762357972">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="230" y="85" width="742" height="596" key="find.popup/0.0.1280.689@0.0.1280.689" timestamp="1580761339694" />
+    <state x="229" y="90" width="742" height="596" key="find.popup/0.0.1280.689@0.0.1280.689" timestamp="1580762357972" />
   </component>
 </project>
