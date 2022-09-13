@@ -6,7 +6,7 @@ import javax.persistence.*;
  * 03.02.2020
  * Car
  *
- * @author RombyGuIde 
+ * @author rombyguide 
  * @version v1.0
  */
 @Entity
