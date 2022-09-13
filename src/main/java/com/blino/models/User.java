@@ -6,7 +6,7 @@ import java.util.List;
  * 03.02.2020
  * User
  *
- * @author RombyGuIde 
+ * @author rombyguide
  * @version v1.0
  */
 
